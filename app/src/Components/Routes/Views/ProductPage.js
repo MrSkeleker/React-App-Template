@@ -26,7 +26,7 @@ function ProductPage() {
     }
 
     return (
-        <div>
+        <div className='flex justify-center'>
             {content}
         </div>
     )
